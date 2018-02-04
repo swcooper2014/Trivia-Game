@@ -16,7 +16,7 @@ If the uses run out of time, the next page will appear letting the user know tha
 
 On the final screen the number of correct and wrong answers, the number of unanswered questions, and an option to restart the game be displayed. 
 
-You can access the app: https://swcooper2014.github.io/TriviaGame/
+You can access the app: https://swcooper2014.github.io/Trivia-Game/
 
 Technologies Used 
 
