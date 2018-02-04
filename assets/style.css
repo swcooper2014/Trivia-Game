@@ -1,0 +1,57 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  text-align: center;
+  background-image: url(disney2.jpg);
+}
+
+
+
+#sub-wrapper {
+  position: relative;
+  top: 15%;;
+}
+
+button  {
+
+	width: 40%;
+	height: 40px;
+	margin:  0 15%;
+	background-color: #5f91df;
+	margin-bottom: 15px
+
+
+}
+
+
+img {
+  height: 200px;
+}
+
+h1 {
+  padding-top: 2.5%;
+  font-family: 'Indie Flower', cursive;
+  font-size: 3em;
+  font-weight: bold;
+  color: blue;
+}
+
+h2 {
+  margin-bottom: 25px;
+  font-size: 35px;
+}
+
+h3 {
+  margin-bottom: 10px;
+  font-size: 25px;
+}
+
+#start {
+  margin-top: 10%;
+  background: #5f91df;
+  border: 2px solid blue;
+}
+
